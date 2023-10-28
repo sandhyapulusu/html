@@ -1,0 +1,17 @@
+h1{
+    background-color: pink;
+    text-align: center;
+    padding: 40px;
+    margin: 0%;
+}
+p{
+    color: rgb(68, 9, 204);
+   
+
+}
+button{
+    border: 1px solid #000;
+}
+div{
+    background-color: black;
+}
